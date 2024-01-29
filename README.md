@@ -7,7 +7,7 @@ Youmi Suk
 Regression discontinuity (RD) designs have gained significant popularity as a quasi-experimental device for evaluating education programs and policies. In this paper, we present a comprehensive review of RD designs, focusing on the continuity-based framework, the most widely adopted RD framework. We first review the fundamental aspects of RD designs, drawing on potential outcomes and causal graphs. We then discuss the validity threats in RD designs, including manipulation, discreteness of the running variable, statistical power, and generalizability. Additionally, we provide an overview of the existing extensions to RD designs. To exemplify the application of RD methods, we analyze the effect of New Jersey's pre-kindergarten program on children's vocabulary test scores, using an educational dataset. Finally, we offer practical guidelines in the conclusion to promote the appropriate use of RD methods in educational research.
 
 Please find our paper [here](https://doi.org/10.31234/osf.io/rhxs7). 
-Here, we provide `R` codes to replicate our data analysis, but with the synthetic data that is similar to the original data used in the paper. 
+Here, we provide `R` codes to replicate our data analysis, but with the synthetic data that closely mimics the original data used in the paper. 
 
 ## New Jersey's Pre-K Program Study
 
