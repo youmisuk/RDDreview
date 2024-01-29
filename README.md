@@ -29,9 +29,9 @@ Here, we provide `R` codes to replicate our data analysis, but with the syntheti
 | flunch  | free lunch status |
 
 
-#### `DataAnalysisCodes.R` 
+#### `RDDataAnalysis.R` 
  
-- `DataAnalysisCodes.R` file can be used to replicate our data analysis. The analysis results using the synthetic data are not exactly the same as those included in the paper based on the real data. But this code file can be seamlessly used for following our analysis steps and visualizing the results. 
+- `RDDataAnalysis.R` file can be used to replicate our data analysis. The analysis results using the synthetic data are not exactly the same as those included in the paper based on the real data. But this code file can be seamlessly used for following our analysis steps and visualizing the results. 
    
 #### `Functions.R` 
  
