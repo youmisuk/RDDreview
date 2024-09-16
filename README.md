@@ -11,10 +11,12 @@ Here, we provide `R` codes to replicate our data analysis, but with the syntheti
 
 ## New Jersey's Pre-K Program Study
 
-#### `synNJdata.csv`
+#### `synNJdata2.csv`
 
 - The data provided is not the original, real data, but synthetic data created using a generative AI model. This synthetic data captures the statistical properties of their real-world counterparts while preserving privacy.
-   - The average similarity measure between real data and synthetic data is 0.93, with each variable's similarity ranging from 0.86 to 0.99. Note a variable's similarity value can vary between 0 and 1. 
+   - The average similarity measure between real data and synthetic data is 0.93, with each variable's similarity ranging from 0.86 to 0.99. Note a variable's similarity value can vary between 0 and 1.
+   - However, since the causal structures are not "carefully" accounted for in generating this synthetic data, the estimates of ITT and LATE (and other parameters) differ from those in the real data.
+   - Despite this, the synthetic data can be used to replicate our real data analysis. 
 
 
 | Variables   | Description |
